@@ -1,0 +1,24 @@
+[
+    {
+        "Code": "DISC10",
+        "Discount": "10"
+    },
+    {
+        "Totalamount": "2000",
+        "Discount": "10"
+    },
+    {
+        "Code": "STARCARD",
+        "Noofcustomer": "2",
+        "Discount": "20"
+    },
+    {
+        "Code": "STARCARD",
+        "Noofcustomer": "4",
+        "Paynoofcustomer": "3"
+    },
+    {
+        "Totalamount": "2500",
+        "Discount": "25"
+    }
+]

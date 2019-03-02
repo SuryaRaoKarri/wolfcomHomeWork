@@ -1,0 +1,14 @@
+E:\Interview\wolfcom\CouponAPI\obj\Debug\netcoreapp2.2\CouponAPI.csprojAssemblyReference.cache
+E:\Interview\wolfcom\CouponAPI\obj\Debug\netcoreapp2.2\CouponAPI.csproj.CoreCompileInputs.cache
+E:\Interview\wolfcom\CouponAPI\obj\Debug\netcoreapp2.2\CouponAPI.RazorAssemblyInfo.cache
+E:\Interview\wolfcom\CouponAPI\obj\Debug\netcoreapp2.2\CouponAPI.RazorAssemblyInfo.cs
+E:\Interview\wolfcom\CouponAPI\obj\Debug\netcoreapp2.2\CouponAPI.AssemblyInfoInputs.cache
+E:\Interview\wolfcom\CouponAPI\obj\Debug\netcoreapp2.2\CouponAPI.AssemblyInfo.cs
+E:\Interview\wolfcom\CouponAPI\bin\Debug\netcoreapp2.2\CouponAPI.deps.json
+E:\Interview\wolfcom\CouponAPI\bin\Debug\netcoreapp2.2\CouponAPI.runtimeconfig.json
+E:\Interview\wolfcom\CouponAPI\bin\Debug\netcoreapp2.2\CouponAPI.runtimeconfig.dev.json
+E:\Interview\wolfcom\CouponAPI\bin\Debug\netcoreapp2.2\CouponAPI.dll
+E:\Interview\wolfcom\CouponAPI\bin\Debug\netcoreapp2.2\CouponAPI.pdb
+E:\Interview\wolfcom\CouponAPI\obj\Debug\netcoreapp2.2\CouponAPI.RazorTargetAssemblyInfo.cache
+E:\Interview\wolfcom\CouponAPI\obj\Debug\netcoreapp2.2\CouponAPI.dll
+E:\Interview\wolfcom\CouponAPI\obj\Debug\netcoreapp2.2\CouponAPI.pdb

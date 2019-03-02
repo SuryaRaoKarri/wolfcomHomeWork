@@ -1,0 +1,11 @@
+E:\Interview\wolfcom\CouponClient\bin\Debug\netcoreapp2.2\CouponClient.deps.json
+E:\Interview\wolfcom\CouponClient\bin\Debug\netcoreapp2.2\CouponClient.runtimeconfig.json
+E:\Interview\wolfcom\CouponClient\bin\Debug\netcoreapp2.2\CouponClient.runtimeconfig.dev.json
+E:\Interview\wolfcom\CouponClient\bin\Debug\netcoreapp2.2\CouponClient.dll
+E:\Interview\wolfcom\CouponClient\bin\Debug\netcoreapp2.2\CouponClient.pdb
+E:\Interview\wolfcom\CouponClient\obj\Debug\netcoreapp2.2\CouponClient.csprojAssemblyReference.cache
+E:\Interview\wolfcom\CouponClient\obj\Debug\netcoreapp2.2\CouponClient.csproj.CoreCompileInputs.cache
+E:\Interview\wolfcom\CouponClient\obj\Debug\netcoreapp2.2\CouponClient.AssemblyInfoInputs.cache
+E:\Interview\wolfcom\CouponClient\obj\Debug\netcoreapp2.2\CouponClient.AssemblyInfo.cs
+E:\Interview\wolfcom\CouponClient\obj\Debug\netcoreapp2.2\CouponClient.dll
+E:\Interview\wolfcom\CouponClient\obj\Debug\netcoreapp2.2\CouponClient.pdb
